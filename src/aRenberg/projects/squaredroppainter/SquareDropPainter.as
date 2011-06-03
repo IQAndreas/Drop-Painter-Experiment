@@ -79,6 +79,7 @@ package aRenberg.projects.squaredroppainter
 		
 		private const completePercentage:Number = 1.05;
 		
+		//Change this value to between 1 and 0 to choose the circle/square ratio.
 		private const squareAmount:Number = 1.0;
 		private const sideBorderHeight:Number = 1.0;
 		private const relativeFillArea:Number = 1.0;
